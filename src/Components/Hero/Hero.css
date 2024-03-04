@@ -1,0 +1,45 @@
+.social{
+    display: flex;
+    flex-direction:column;
+    margin-left: auto;
+}
+.social .media {
+    margin-left:40px;
+    padding-left: 35px;
+    font-family: 'poppins';
+    font-size:800;
+    margin-bottom:30px;
+    color: #000000;
+    
+}
+.socimg{
+    display: flex;
+    justify-content:flex start;
+    gap: 10px;
+    margin-left:60px;
+}
+
+.img1{
+height:70px;
+}
+
+.cart
+{
+    height: 150px ;
+    width: 200px;
+    background:#FFFFFF;
+    border-radius:15%;
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+
+.task{
+    margin-left:100px;
+    font-weight: 800;
+    font-size:800;
+    line-height:100px;
+}
